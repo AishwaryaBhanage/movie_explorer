@@ -8,7 +8,7 @@ This project was built as a take-home assignment with a focus on **core function
 ## 🔗 Live Links
 
 - **Live App (Vercel):** [https://movieexplorer-beta.vercel.app](https://movieexplorer-beta.vercel.app/)
-- **GitHub Repository:** https://github.com/AishwaryaBhanage/MovieExplorer
+- **GitHub Repository:** https://github.com/AishwaryaBhanage/movie_explorer
 
 ---
 
