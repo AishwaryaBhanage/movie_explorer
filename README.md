@@ -86,7 +86,7 @@ This project was built as a take-home assignment with a focus on **core function
 
 ---
 
-## 🚀 Getting Started (Local Setup)
+## Getting Started (Local Setup)
 
 ### Prerequisites
 - Node.js (v18+ recommended)
@@ -95,7 +95,7 @@ This project was built as a take-home assignment with a focus on **core function
 
 ---
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/AishwaryaBhanage/MovieExplorer.git
 cd MovieExplorer
