@@ -11,7 +11,7 @@ This project was built as a take-home assignment with a focus on **core function
 - **GitHub Repository:** https://github.com/AishwaryaBhanage/movie_explorer
 
 ---
-![Alt text](https://github.com/AishwaryaBhanage/movie_explorer/edit/main/README.md#:~:text=.gitignore-,Frontend,-.png)
+!(https://github.com/AishwaryaBhanage/movie_explorer/edit/main/README.md#:~:text=.gitignore-,Frontend,-.png)
 
 
 ## Features
