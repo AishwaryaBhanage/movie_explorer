@@ -1,4 +1,4 @@
-# Movie Explorer
+# Movie Explorer- Single Page Application built with ReactJS and NextJS
 
 Movie Explorer is a lightweight web application that allows users to search for movies, view detailed information, and save their favorite movies with a personal rating and note.  
 This project was built as a take-home assignment with a focus on **core functionality, clean architecture, and clear technical tradeoffs**, rather than over-engineering.
